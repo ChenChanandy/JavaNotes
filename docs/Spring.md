@@ -7,7 +7,7 @@
   - [相关代码](#相关代码)
 - [声明式事务](#声明式事务)
   - [声明式事务中属性解释](#声明式事务中属性解释)
-- [applicationContext-spring.xml](#applicationcontext-spring.xml)
+- [applicationContext-spring.xml](#applicationcontext-springxml)
 
 # Spring
 
