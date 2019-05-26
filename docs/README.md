@@ -2,6 +2,7 @@
 
 - [Spring框架](Spring.md)
 - [SpringMVC框架](SpringMVC.md)
+- [MyBatis框架](MyBatis.md)
 - [SSM框架常用注解](SSM框架常用注解.md)
 
 ## 数据库
