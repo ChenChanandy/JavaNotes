@@ -5,6 +5,10 @@
 - [MyBatis框架](MyBatis.md)
 - [SSM框架常用注解](SSM框架常用注解.md)
 
+## 互联网架构
+
+- [Dubbo](Dubbo.md)
+
 ## 数据库
 
 - [MySQL](MySQL.md)
