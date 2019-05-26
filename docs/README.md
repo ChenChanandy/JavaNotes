@@ -1,3 +1,8 @@
+## 数据库
+
+- [MySQL](MySQL.md)
+- [Redis](Redis.md)
+
 ## 常用框架
 
 - [Spring框架](Spring.md)
@@ -9,10 +14,7 @@
 
 - [Dubbo](Dubbo.md)
 
-## 数据库
-
-- [MySQL](MySQL.md)
-- [Redis](Redis.md)
+- [Nginx](Nginx.md)
 
 ## 操作系统
 
