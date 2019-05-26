@@ -6,10 +6,10 @@
   - [Dubbo支持的协议](#Dubbo支持的协议)
 - [Zookeeper](#zookeeper)
 - [Provider搭建](#provider搭建)
-  - [dubbo-service](#dubboservice)
-  - [dubbo-service-impl](#dubboserviceimpl)
+  - [dubbo-service](#dubbo-service)
+  - [dubbo-service-impl](#dubbo-service-impl)
 - [Consumer搭建](#consumer搭建)
-- [dubbo-admin管理界面](#dubboadmin管理界面)
+- [dubbo-admin管理界面](#dubbo-admin管理界面)
 
 ## SOA
 
