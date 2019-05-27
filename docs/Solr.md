@@ -1,8 +1,10 @@
 - [Solr简介](#solr简介)
 - [IK Analyzer 中文拆词器](#ik-analyzer-中文拆词器)
 - [Solr管理界面](#solr管理界面)
-- [documents菜单功能](#documents菜单功能)
-- [quey菜单功能](#quey菜单功能)
+
+  - [documents菜单功能](#documents菜单功能)
+
+  - [quey菜单功能](#quey菜单功能)
 - [SolrCloud](#solrcloud)
 - [Solr数据初始化](#solr数据初始化)
 
