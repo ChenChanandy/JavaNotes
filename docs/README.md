@@ -1,7 +1,7 @@
 ## Java
 
 - Java基础
-- JavaEE基础
+- [JavaEE基础](JavaEE基础)
 
 ## 数据库
 
@@ -25,6 +25,10 @@
 ## 操作系统
 
 - [Linux](Linux.md)
+
+## 设计模式
+
+- 设计模式
 
 ## 数据结构与算法
 
