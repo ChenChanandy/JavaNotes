@@ -11,15 +11,15 @@
   - [ServletContext对象](#servletcontext对象)
   - [ServletConfig对象](#servletconfig对象)
 - [xml文件](#xml文件)
-  - [web.xml](web.xml)
+  - [web.xml](#web.xml)
 - [JSP](#jsp)
   - [语法和指令](#语法和指令)
   - [九大内置对象](#九大内置对象)
   - [资源路径](#资源路径)
 - [Ajax](#ajax)
 - [jQuery中ajax分类](#jquery中ajax分类)
-- [EL、JSTL](#el、jstl)
-- [#过滤、监听器](#过滤、监听器)
+- [EL、JSTL](#eljstl)
+- [#过滤、监听器](#过滤监听器)
 
 ## HTTP协议
 
