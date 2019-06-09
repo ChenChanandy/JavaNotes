@@ -12,7 +12,7 @@
 
   与@Component 功能相同，写在数据访问层类上
 
-- **@Controlle**
+- **@Controller**
 
   与@Component 功能相同，写在控制器类上
 
