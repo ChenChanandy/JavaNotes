@@ -1,6 +1,6 @@
 ## Java
 
-- Java基础
+- [Java基础](Java基础.md)
 - [JavaEE基础](JavaEE基础.md)
 
 ## 数据库
