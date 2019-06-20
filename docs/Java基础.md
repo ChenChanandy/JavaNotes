@@ -13,7 +13,7 @@
 
 ### JVM、JRE和JDK
 
-**JVM **(Java Virtual Machine) 就是一个虚拟的用于执行bytecode字节码的”虚拟计算机”。
+**JVM** (Java Virtual Machine) 就是一个虚拟的用于执行bytecode字节码的”虚拟计算机”。
 
 **JRE** (Java Runtime Environment) 包含：Java虚拟机、库函数、运行Java应用程序所必须的文件。
 
